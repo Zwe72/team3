@@ -22,4 +22,4 @@ Koostuu itse kehittäjistä, suunnitelijoista, testaajista ja muista asiantuntij
 - Selvennetään roolien tehtävät sprintin aikana.
 - Pienet palaverit usein pitivät kaikki ajan tasalla missä mennään.
 ## Miksi toimii?
-
+Scrum toimii, koska projekti jaetaan pienempiin ja hallittaviin osiin. Lyhyet sprintit mahdollistavat työn etenemisen seuraamisen ja palautteen saamisen säännöllisesti. Mahdolliset ongelmat voidaan havaita aikaisessa vaiheessa ja niihin voidaan reagoida.
