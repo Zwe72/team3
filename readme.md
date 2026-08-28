@@ -6,7 +6,6 @@ Sprintit ovat kiinteän mittaisia, noin 2-4 viikon työjaksoja joista projektin 
 ## Tyojonot
 Eli työjonossa sisältää lista tehtävistä ja ominaisuuksista ja kehitysideasta, joita projektissa pitää tehdä ja hoitaa. Tehtävät järjestetään yleensä tärkeysjärjestykseen, että tärkeimmät asiat hoidetaan ensin. Sprintin alussa tiimi valitsee työjonosta tehtävät, jotka pyritään saamaan valmiiksi sprintin aikana.
 
->>>>>>> origin/develop
 ## Roolit
 ### Product Owner (Tuoteomistaja): <br>
 Päättää mitä tehdään. Vastaa kehitysjonosta ja varmistaa, että tiimi keskittyy aina arvokkaimpiin ja tärkeimpiin asioihin.
