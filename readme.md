@@ -12,5 +12,6 @@
 - Tuodaan esille ongelmia ja haasteita ratkaistavaksi.
 - Aivoriihi tavoitteiden toteutukseen, kartoitukseen ja aikataulutukseen.
 - Selvennetään roolien tehtävät sprintin aikana.
+- Pienet palaverit usein pitivät kaikki ajan tasalla missä mennään.
 ## Miksi toimii?
 
