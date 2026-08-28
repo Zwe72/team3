@@ -5,16 +5,12 @@
 ## Tyojonot
 
 ## Roolit
-### Scrum-masteri
-- Hoitaa aikataulut kuntoon.
-- Ohjaa tekemisen suuntaa.
-- Poistaa esteitä tekemiselle.
-### Kehittäjät
-- Tuottaa ja toteuttaa sprintin tavoitteet.
+
 ## Kokoukset
 - Selvitetään sprintin alussa milloin ja missä.
-- Tuodaan esille ratkaistavia ongelmia ja aivoriihiä.
+- Tehdään selväksi sprintin tavoitteet.
+- Tuodaan esille ongelmia ja haasteita ratkaistavaksi.
+- Aivoriihi tavoitteiden toteutukseen, kartoitukseen ja aikataulutukseen.
+- Selvennetään roolien tehtävät sprintin aikana.
 ## Miksi toimii?
-- Selvät laatikoidut tavoitteet.
-- Ketterä vastaamaan uusiin ongelmiin.
-- Pystyy näyttämään jatkuvaa konkreettista edestymistä.
+
