@@ -1,5 +1,5 @@
 # Scrum-sykli yleiskuvaus
-
+Scrum on kevyt viitekehys, joka auttaa ihmisiä, tiimejä ja organisaatioita luomaan arvoa mukautuvien ratkaisujen avulla monimutkaisiin ongelmiin. Scrumissa työ jaetaan lyhyisiin ajanjaksoihin eli sprintteihin. Sprintin aikana tiimi työskentelee yhdessä ennalta valittujen tehtävien parissa. Sprintin lopuksi tarkastellaan saavutettua tulosta ja suunnitellaan seuraavia tehtäviä.
 ## Sprintit
 
 ## Tyojonot
