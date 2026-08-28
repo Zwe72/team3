@@ -3,7 +3,7 @@ Scrum on kevyt viitekehys, joka auttaa ihmisiä, tiimejä ja organisaatioita luo
 ## Sprintit
 
 ## Tyojonot <br>
-Eli lista tehtävistä ja ominaisuuksista, jotia projektissa pitää tehdä ja hoitaa. Tehtäviä valitaan sprinttin työjonosta.
+Eli lista tehtävistä ja ominaisuuksista, jotia projektissa pitää tehdä ja hoitaa. Tehtäviä valitaan sprinttin työjonosta. 
 ## Roolit
 ### Product Owner (Tuoteomistaja): <br>
 Päättää mitä tehdään. Vastaa kehitysjonosta ja varmistaa, että tiimi keskittyy aina arvokkaimpiin ja tärkeimpiin asioihin.
