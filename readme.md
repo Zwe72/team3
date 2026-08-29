@@ -11,7 +11,9 @@ Prosessi perustuu kolmeen peruspilariin:
 
 ## Sprintit
 Kesto: yleisesti 2-4 viikko
+
 Tavoite: Jokaisella sprintillä on selkeä *Sprint Goal*, joka kuvaa sprintin liiketoiminta- tai kehitystavoitteen
+
 Sääntö: Sprintin aikana sen tavoitetta ei muuteta ellei kyseessä ole kriittinen poikkeustilanne
 
 ## Tyojonot
