@@ -10,9 +10,9 @@ Prosessi perustuu kolmeen peruspilariin:
 * Sopeutuminen (Adaptation): Toimintaa tai tuotetta korjataan välittömästi havaintojen pohjalta
 
 ## Sprintit
-* Kesto: 2-4 viikko
-* Tavoite: Jokaisella sprintillä on selkeä *Sprint Goal*, joka kuvaa sprintin liiketoiminta- tai kehitystavoitteen
-* Sääntö: Sprintin aikana sen tavoitetta ei muuteta ellei kyseessä ole kriittinen poikkeustilanne
+Kesto: yleisesti 2-4 viikko
+Tavoite: Jokaisella sprintillä on selkeä *Sprint Goal*, joka kuvaa sprintin liiketoiminta- tai kehitystavoitteen
+Sääntö: Sprintin aikana sen tavoitetta ei muuteta ellei kyseessä ole kriittinen poikkeustilanne
 
 ## Tyojonot
 Eli työjonossa sisältää lista tehtävistä ja ominaisuuksista ja kehitysideasta, joita projektissa pitää tehdä ja hoitaa. Tehtävät järjestetään yleensä tärkeysjärjestykseen, että tärkeimmät asiat hoidetaan ensin. Sprintin alussa tiimi valitsee työjonosta tehtävät, jotka pyritään saamaan valmiiksi sprintin aikana.
